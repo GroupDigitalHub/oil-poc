@@ -1,0 +1,31 @@
+{
+  "name": "oil-poc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OIL-POC",
+  "author": "markbok",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@bit/irishlife.irishlifedesignsystem.button": "^2.0.0",
+    "@bit/irishlife.irishlifedesignsystem.caption": "^1.0.1",
+    "@bit/irishlife.irishlifedesignsystem.card-data": "^1.0.5",
+    "@bit/irishlife.irishlifedesignsystem.collapsable-container": "^2.0.1",
+    "@material-ui/core": "^4.11.3",
+    "gatsby": "^3.1.2",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "lato-font": "^3.0.0"
+  }
+}
