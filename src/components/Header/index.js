@@ -18,7 +18,7 @@ export const Header = props => {
   const { classes } = props;
   return (
       <div className={classes.root}>
-          <img src={Logo} />
+          <img src={Logo} alt="One Irish Life"/>
       </div>
   );
 };
